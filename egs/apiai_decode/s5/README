@@ -1,6 +1,6 @@
-This is example script on how to use pretrained chain model and kaldi base code to recognize banch of wav files (16000 S16_LE format). 
+This is an example script on how to use a pre-trained chain model and kaldi base code to recognize any number of wav files (16000 S16_LE format). 
 
-Pretrained model was released by Api.ai under Creative Commons Attribution-ShareAlike 4.0 International Public License. For more details about it visit https://github.com/api-ai/api-ai-english-asr-model
+Pretrained models were released by Api.ai under Creative Commons Attribution-ShareAlike 4.0 International Public License. For more details, visit https://github.com/api-ai/api-ai-english-asr-model
 
 Usage:
 - Ensure kaldi is compiled and this scripts are inside kaldi/egs/<subfolder/ directory
